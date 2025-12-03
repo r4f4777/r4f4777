@@ -42,7 +42,8 @@ I love creating things that live **on-chain**, understanding how protocols work 
 ### 🔹 **Wallet Contract (Solidity + Foundry)**  
 A secure ETH wallet supporting deposits, owner-restricted withdrawals, ownership transfer, events, and full Foundry unit test suite.  
  Designed following real audit patterns and CEI principles.  
- *(Repo link coming soon — uploading now)*
+ 
+ https://github.com/r4f4777/eth-wallet-foundry
 
 ---
 
