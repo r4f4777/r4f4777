@@ -36,7 +36,7 @@ I love creating things that live **on-chain**, understanding how protocols work 
 
 ---
 
-##  Featured Projects
+##  Featured Projects (👉 See pinned repositories below 👇)
 
 ### 🔹 **Wallet Contract (Solidity + Foundry)**  
 A secure ETH wallet supporting deposits, owner-restricted withdrawals, ownership transfer, events, and full Foundry unit test suite.  
