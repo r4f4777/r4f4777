@@ -47,6 +47,15 @@ A secure ETH wallet supporting deposits, owner-restricted withdrawals, ownership
 
 ---
 
+### 🔹 **ERC-20 Token — Minimal Standard Implementation (Solidity + Foundry)**  
+A standard-compliant ERC-20 token implemented **from scratch**, without OpenZeppelin.  
+Includes full allowance mechanics, infinite allowance support, strict revert conditions, and a comprehensive Foundry test suite covering happy paths, reverts, and event emissions.  
+Focused on deeply understanding ERC-20 internals and real-world DeFi token behavior.
+
+https://github.com/r4f4777/erc20-token-foundry
+
+---
+
 ### 🔹 **BCDonaciones — Blockchain Donation Platform (Hyperledger Fabric)**  
 Bachelor thesis project.  
 A full blockchain donation system built using:
@@ -74,8 +83,8 @@ I update GitHub weekly with new blockchain projects.
 Here’s my current roadmap:
 
 1. ✔️ Wallet Contract (Solidity + Foundry)  
-2. ⏭️ ERC20 Implementation  
-3. ERC721 NFT Contract  
+2. ✔️ ERC-20 Implementation (Solidity + Foundry)  
+3. ⏭️ ERC-721 NFT Contract (Incoming) 
 4. Staking Contract  
 5. Mini-DEX (AMM)  
 6. Reentrancy Demo + Security Fix  
