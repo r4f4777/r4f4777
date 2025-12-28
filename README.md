@@ -1,4 +1,4 @@
-#  Hey, I'm Rafael Guiberteau — Blockchain & Smart Contract Developer
+#  Hey, I'm Rafael Guiberteau — Junior blockchain engineer focused on Solidity, Foundry, and smart contract security.
 
 I'm a Software Engineer from Spain, specializing in **Blockchain**, **Smart Contracts**, and **Web3 Security**.  
 My focus is on building real, production-grade blockchain systems — from Solidity smart contracts with Foundry to enterprise networks on Hyperledger Fabric.
@@ -24,7 +24,7 @@ I love creating things that live **on-chain**, understanding how protocols work 
 - Web3 concepts: ERC20, ERC721, staking, pools, oracles, gas, CEI pattern  
 
 **Backend & Engineering**
-- Java (Spring Boot), Go, TypeScript  
+- Java (Spring Boot), Go, HTML, CSS
 - REST APIs, microservices, DBs  
 - Docker, Linux, Git  
 
@@ -32,8 +32,7 @@ I love creating things that live **on-chain**, understanding how protocols work 
 - Foundry / Forge / Anvil  
 - VSCode + Solhint  
 - GitHub Projects  
-- n8n automation  
-- Supabase  
+- Supabase
 
 ---
 
@@ -48,7 +47,8 @@ A secure ETH wallet supporting deposits, owner-restricted withdrawals, ownership
 ---
 
 ### 🔹 **ERC-20 Token — Minimal Standard Implementation (Solidity + Foundry)**  
-A standard-compliant ERC-20 token implemented **from scratch**, without OpenZeppelin.  
+A standard-compliant ERC-20 token implemented **from scratch**, without OpenZeppelin. 
+Designed to mirror production ERC-20 behavior used in DeFi protocols.
 Includes full allowance mechanics, infinite allowance support, strict revert conditions, and a comprehensive Foundry test suite covering happy paths, reverts, and event emissions.  
 Focused on deeply understanding ERC-20 internals and real-world DeFi token behavior.
 
@@ -84,7 +84,7 @@ Here’s my current roadmap:
 
 1. ✔️ Wallet Contract (Solidity + Foundry)  
 2. ✔️ ERC-20 Implementation (Solidity + Foundry)  
-3. ⏭️ ERC-721 NFT Contract (Incoming) 
+3. ⏭️ ERC-721 NFT Contract (Incoming)  **<-- Current focus**
 4. Staking Contract  
 5. Mini-DEX (AMM)  
 6. Reentrancy Demo + Security Fix  
@@ -98,7 +98,7 @@ My goal is to build the strongest junior-to-mid Web3 portfolio possible.
 
 ##  Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/rafael-guiberteau-tinoco-81689229b  
-- **Newsletter:** https://substack.com/@easyblockchain?
+- **Newsletter:** https://substack.com/@easyblockchain
 - **GitHub:** You're already here 👀  
 
 ---
