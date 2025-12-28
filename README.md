@@ -51,6 +51,7 @@ A standard-compliant ERC-20 token implemented **from scratch**, without OpenZepp
 Designed to mirror production ERC-20 behavior used in DeFi protocols.
 Includes full allowance mechanics, infinite allowance support, strict revert conditions, and a comprehensive Foundry test suite covering happy paths, reverts, and event emissions.  
 Focused on deeply understanding ERC-20 internals and real-world DeFi token behavior.
+Built to be extended later with ERC-721, staking, and AMM logic.”
 
 https://github.com/r4f4777/erc20-token-foundry
 
