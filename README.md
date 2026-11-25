@@ -1,116 +1,90 @@
-#  Hey, I'm Rafael Guiberteau — Junior blockchain engineer focused on Solidity, Foundry, and smart contract security.
+# Hi, I'm Rafael Guiberteau 👋
 
-I'm a Software Engineer from Spain, specializing in **Blockchain**, **Smart Contracts**, and **Web3 Security**.  
-My focus is on building real, production-grade blockchain systems — from Solidity smart contracts with Foundry to enterprise networks on Hyperledger Fabric.
+**Software Engineer at Mecalux | Backend Development & Software Engineering**
 
-I love creating things that live **on-chain**, understanding how protocols work under the hood, and improving every week through consistent building.
+I'm a Software Engineer from Spain with professional experience in enterprise software, backend development, databases and software integration.
 
----
+At Mecalux Software Solutions, I develop and maintain industrial software for warehouse automation, collaborating with international customers and multidisciplinary engineering teams.
 
-##  What I'm Focused on Right Now
-- Mastering **Solidity** & **Foundry**
-- Deepening knowledge in **smart contract security**
-- Creating a strong portfolio of Web3 projects
-- Learning advanced blockchain architecture (DeFi, AMMs, oracles, staking…)
-- Writing technical blockchain content (EasyBlockchain newsletter)
+I'm interested in software architecture, distributed systems, embedded software and emerging technologies. I enjoy understanding how systems work under the hood and building practical solutions to real-world problems.
 
 ---
 
-##  Tech Stack
-**Blockchain & Smart Contracts**
-- Solidity, Foundry, Hardhat  
-- Hyperledger Fabric (Go chaincode, CA, peer/network config)
-- Ethereum / EVM fundamentals  
-- Web3 concepts: ERC20, ERC721, staking, pools, oracles, gas, CEI pattern  
+## Technical Skills
 
-**Backend & Engineering**
-- Java (Spring Boot), Go, HTML, CSS
-- REST APIs, microservices, DBs  
-- Docker, Linux, Git  
-
-**Tools**
-- Foundry / Forge / Anvil  
-- VSCode + Solhint  
-- GitHub Projects  
-- Supabase
+| Area | Technologies |
+| --- | --- |
+| Professional stack | C#, .NET, LINQ, Boo, SQL |
+| Backend projects | Java, Spring Boot, Go, REST APIs, WebSockets |
+| Databases | Oracle, SQL Server, PostgreSQL, MariaDB |
+| Tools & Infrastructure | Git, Docker, Linux |
+| Frontend | Angular, HTML, CSS |
+| Blockchain | Hyperledger Fabric, Solidity, Foundry |
 
 ---
 
-##  Featured Projects (👉 See pinned repositories below 👇)
+## Featured Projects
 
-### 🔹 **Wallet Contract (Solidity + Foundry)**  
-A secure ETH wallet supporting deposits, owner-restricted withdrawals, ownership transfer, events, and full Foundry unit test suite.  
- Designed following real audit patterns and CEI principles.  
- 
- https://github.com/r4f4777/eth-wallet-foundry
+### CubeSat-01 — Satellite Flight Software (In Progress)
 
----
+An independent engineering project focused on the design and development of flight software for a simulated 1U CubeSat.
 
-### 🔹 **ERC-20 Token — Minimal Standard Implementation (Solidity + Foundry)**  
-A standard-compliant ERC-20 token implemented **from scratch**, without OpenZeppelin. 
-Designed to mirror production ERC-20 behavior used in DeFi protocols.
-Includes full allowance mechanics, infinite allowance support, strict revert conditions, and a comprehensive Foundry test suite covering happy paths, reverts, and event emissions.  
-Focused on deeply understanding ERC-20 internals and real-world DeFi token behavior.
-Built to be extended later with ERC-721, staking, and AMM logic.”
+Built in C++ with a focus on:
 
-https://github.com/r4f4777/erc20-token-foundry
+- Embedded software engineering.
+- Flight software architecture.
+- Spacecraft subsystem simulation.
+- Telemetry and command processing.
+- System reliability and fault management.
 
----
+The project aims to explore aerospace software engineering through a practical, incremental and systems-oriented approach.
 
-### 🔹 **BCDonaciones — Blockchain Donation Platform (Hyperledger Fabric)**  
-Bachelor thesis project.  
-A full blockchain donation system built using:
-- Hyperledger Fabric  
-- Go chaincode  
-- Java Spring Boot API  
-- Angular front-end  
+**Status:** Under active development.
 
- Includes a complete Fabric network with peers, orderers, CAs, and real smart contract logic.
+### BCDonaciones — Blockchain Donation Platform
 
- https://github.com/r4f4777/BCDonaciones
+Bachelor's thesis project integrating Hyperledger Fabric, Go chaincode, a Java/Spring Boot REST API, Angular and Docker.
 
----
+[View repository](https://github.com/r4f4777/BCDonaciones)
 
-### 🔹 **FeedApp — Real-Time Voting Platform (Java + Spring Boot)**  
-A university project built during my stay in Norway.  
-A Spring Boot + WebSockets application for real-time polls and votes.
+### FeedApp — Real-Time Voting Platform
 
- https://github.com/r4f4777/FeedApp
+University project developed during my academic exchange in Norway. Built with Java, Spring Boot and WebSockets for real-time polling and voting.
 
----
+[View repository](https://github.com/r4f4777/FeedApp)
 
-##  Web3 Portfolio Roadmap (In Progress)
-I update GitHub weekly with new blockchain projects.  
-Here’s my current roadmap:
+### ERC-20 Token Implementation
 
-1. ✔️ Wallet Contract (Solidity + Foundry)  
-2. ✔️ ERC-20 Implementation (Solidity + Foundry)  
-3. ⏭️ ERC-721 NFT Contract (Incoming)  **<-- Current focus**
-4. Staking Contract  
-5. Mini-DEX (AMM)  
-6. Reentrancy Demo + Security Fix  
-7. DAO Basic Version  
-8. Hyperledger Fabric Network Example  
-9. Full Web3 dApp (frontend + contracts)  
+ERC-20 token implemented from scratch in Solidity, including allowance mechanics and automated tests with Foundry.
 
-My goal is to build the strongest junior-to-mid Web3 portfolio possible.
+[View repository](https://github.com/r4f4777/erc20-token-foundry)
+
+### ETH Wallet Contract
+
+Solidity wallet implementing deposits, restricted withdrawals, ownership transfer and automated unit tests.
+
+[View repository](https://github.com/r4f4777/eth-wallet-foundry)
 
 ---
 
-##  Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/rafael-guiberteau-tinoco-81689229b  
-- **Newsletter:** https://substack.com/@easyblockchain
-- **GitHub:** You're already here 👀  
+## Achievements & Education
+
+- 🏆 **3rd Place — BCG Platinion Hackathon (October 2026):** Collaborated on a technology-driven solution to improve water accessibility in Northern Uganda, combining software engineering, data analytics and AI.
+- 🎓 **B.Sc. in Computer Science — Software Engineering**, University of Extremadura (2021–2025).
+- 🌍 **International academic exchange**, Western Norway University of Applied Sciences, Bergen (2024–2025).
+- ✍️ **Founder of EasyBlockchain**, a technology newsletter with over 200 subscribers.
 
 ---
 
-##  Philosophy
-> “Subir la montaña cuesta, pero las vistas desde arriba siempre son mejores.”
-> “Climbing the mountain is hard work, but the views from the top are always better.”
-I believe in long-term focus, building consistently, and understanding things with depth — not hype.
+## Connect with me
 
-Every project here represents a step toward becoming a great blockchain engineer.
+- [LinkedIn](https://www.linkedin.com/in/rafael-guiberteau-tinoco-81689229b)
+- [EasyBlockchain Newsletter](https://substack.com/@easyblockchain)
 
 ---
 
-Thanks for stopping by — and if you're building something in Web3, feel free to reach out. 🚀
+## Philosophy
+
+> Climbing the mountain is hard work, but the views from the top are always better.
+
+I believe in continuous learning, technical depth and building software with purpose.
