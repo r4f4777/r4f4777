@@ -81,7 +81,7 @@ Solidity wallet implementing deposits, restricted withdrawals, ownership transfe
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/rafael-guiberteau-tinoco-81689229b)
-- [EasyBlockchain Newsletter]([https://substack.com/@easyblockchain](https://www.linkedin.com/newsletters/easy-blockchain-7443034670616961024/)
+- [EasyBlockchain Newsletter](https://www.linkedin.com/newsletters/easy-blockchain-7443034670616961024/)
 
 ---
 
